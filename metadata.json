@@ -1,0 +1,5 @@
+{
+  "name": "Silly Story Generator",
+  "description": "A fun app that uses AI to generate random silly stories based on your ideas. Perfect for a quick laugh!",
+  "requestFramePermissions": []
+}
